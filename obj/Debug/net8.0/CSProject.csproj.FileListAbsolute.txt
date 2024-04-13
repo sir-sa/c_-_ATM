@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\CSProject\bin\Debug\net8.0\CSProject.exe
+C:\Users\USER\Desktop\CSProject\bin\Debug\net8.0\CSProject.deps.json
+C:\Users\USER\Desktop\CSProject\bin\Debug\net8.0\CSProject.runtimeconfig.json
+C:\Users\USER\Desktop\CSProject\bin\Debug\net8.0\CSProject.dll
+C:\Users\USER\Desktop\CSProject\bin\Debug\net8.0\CSProject.pdb
+C:\Users\USER\Desktop\CSProject\obj\Debug\net8.0\CSProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\CSProject\obj\Debug\net8.0\CSProject.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\CSProject\obj\Debug\net8.0\CSProject.AssemblyInfo.cs
+C:\Users\USER\Desktop\CSProject\obj\Debug\net8.0\CSProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CSProject\obj\Debug\net8.0\CSProject.dll
+C:\Users\USER\Desktop\CSProject\obj\Debug\net8.0\refint\CSProject.dll
+C:\Users\USER\Desktop\CSProject\obj\Debug\net8.0\CSProject.pdb
+C:\Users\USER\Desktop\CSProject\obj\Debug\net8.0\CSProject.genruntimeconfig.cache
+C:\Users\USER\Desktop\CSProject\obj\Debug\net8.0\ref\CSProject.dll
